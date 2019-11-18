@@ -116,51 +116,22 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 hidden-sm col-xs-12">
-                            <div class="footer-widget">
-                                <h3>instagram</h3>
-                                <div class="single-ins mr-10 mb-10">
-                                    <a href="#"><img src="{{asset('front/img/footer/footer1.jpg')}}" alt="instagram"></a>
-                                </div>
-                                <div class="single-ins mr-10 mb-10">
-                                    <a href="#"><img src="{{asset('front/img/footer/footer2.jpg')}}" alt="instagram"></a>
-                                </div>
-                                <div class="single-ins mb-10">
-                                    <a href="#"><img src="{{asset('front/img/footer/footer3.jpg')}}" alt="instagram"></a>
-                                </div>
-                                <div class="single-ins mr-10">
-                                    <a href="#"><img src="{{asset('front/img/footer/footer4.jpg')}}" alt="instagram"></a>
-                                </div>
-                                <div class="single-ins mr-10">
-                                    <a href="#"><img src="{{asset('front/img/footer/footer5.jpg')}}" alt="instagram"></a>
-                                </div>
-                                <div class="single-ins">
-                                    <a href="#"><img src="{{asset('front/img/footer/footer6.jpg')}}" alt="instagram"></a>
-                                </div>
-                            </div>
+                    <div class="col-md-4 hidden-sm col-xs-12">
+                        <div class="footer-widget">
+                            <h3>Quick Links</h3>
+
                         </div>
+                        </div>  
                         <div class="col-md-4 col-sm-6 col-xs-12">
                             <div class="footer-widget">
                                 <h3>Subscribe</h3>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                                <div class="subscribe-form">
-                                    <div id="mc_embed_signup">
-                                        <form action="http://devitems.us11.list-manage.com/subscribe/post?u=6bbb9b6f5827bd842d9640c82&amp;id=05d85f18ef" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                                            <div id="mc_embed_signup_scroll" class="mc-form">
-                                                <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter hour email address" required>
-                                                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                                                <div class="mc-news" aria-hidden="true"><input type="text" name="b_6bbb9b6f5827bd842d9640c82_05d85f18ef" tabindex="-1" value=""></div>
-                                                <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="default-btn"><span class="ti-location-arrow"></span></button>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
+                           
                                 <div class="footer-social">
                                     <ul>
-                                        <li><a href="https://vimeo.com/"><span class="ti-vimeo"></span></a></li>
                                         <li><a href="https://www.tumblr.com/"><span class="ti-tumblr"></span></a></li>
-                                        <li><a href="https://twitter.com/devitemsllc"><span class="ti-twitter"></span></a></li>
-                                        <li><a href="https://www.pinterest.com/devitemsllc/"><span class="ti-pinterest"></span></a></li>
+                                        <li><a href="https://twitter.com/"><span class="ti-twitter"></span></a></li>
+                                        <li><a href="https://www.pinterest.com"><span class="ti-pinterest"></span></a></li> 
+                                        <li><a href="https://www.facebook.com"><span class="ti-facebook"></span></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -174,9 +145,9 @@
                         <div class="col-sm-6 col-xs-12">
                             <p class="text-left"><a href="#" target="_blank"></a> <i class="fa fa-copyright"></i> 2020 All Rights Reserved.</p>
                         </div>
-                        <div class="col-sm-6 col-xs-12">
-                            <p class="text-right">Terms of use and <a href="#">Privacy Policy</a></p>
-                        </div>
+<!--                         <div class="col-sm-6 col-xs-12">
+    <p class="text-right">Terms of use and <a href="#">Privacy Policy</a></p>
+</div> -->
                     </div>
                 </div>
             </div>

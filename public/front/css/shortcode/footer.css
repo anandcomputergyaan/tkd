@@ -98,7 +98,7 @@ NOTE: This is Footer style file. All footer related style included in this file.
 }
 .footer-social ul li{
     display: inline-block;
-    border: 1px solid #00E676;
+    border: 1px solid #fff;
     height: 35px;
     width: 35px;
     border-radius: 50%;
@@ -126,7 +126,7 @@ NOTE: This is Footer style file. All footer related style included in this file.
     background: #fff
 }
 .footer-social ul li:hover span{
-    color : #00E676;
+    color : #111111;
 }
 .footer-bottom p{
     color: #999999;

@@ -64,7 +64,7 @@ a:focus{
 }
 a:focus,
 a:hover {
-    color: #00E676;
+    color: #111;
     text-decoration: none;
 }
 a:active, a:hover {
@@ -279,7 +279,7 @@ textarea {
     color: #ffffff;
 }
 #scrollUp {
-    background: #00E676 none repeat scroll 0 0;
+    background: #607D8B none repeat scroll 0 0;
 }
 /*************************
     05. Basic margin padding
@@ -695,7 +695,7 @@ textarea {
 }
 .breadcrumb-bar .breadcrumb > li + li::before {display: none;}
 .breadcrumb-bar a {color: #ffffff;}
-.breadcrumb-bar a:hover {color: #614a3d;}
+.breadcrumb-bar a:hover {color: #cccccc;}
 .breadcrumb-bar li:first-child {margin-left: 0;}
 /*************************
     13. Banner

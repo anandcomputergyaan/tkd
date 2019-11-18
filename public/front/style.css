@@ -125,13 +125,13 @@
 .single-class:hover .register{opacity: 1; bottom: 54%;}
 .single-class:hover .class-hover{height: 26%; bottom: 0}
 .register a{
-    background: #00E676;
-    border: 2px solid #00E676;
+    background: #111;
+    border: 2px solid #111;
     padding: 9px 26px 10px;
 }
-.register a:hover{color: #00E676;}
+.register a:hover{color: #111;}
 .class-hover{
-    background: #00E676;
+    background: #111;
     width: 100%;
     bottom: -10%;
     position: absolute;
@@ -186,7 +186,7 @@
 }
 .trainer-content h2{
     font-size: 36px;
-    color: #00E676;
+    color: #111;
     font-weight: 400;
     text-transform: capitalize;
     margin-bottom: 22px;
@@ -199,7 +199,7 @@
     bottom: 0;
     width: 100px;
     height: 2px;
-    background: #00E676;
+    background: #111;
     content: "";
 }
 .trainer-content h4{
@@ -216,14 +216,14 @@
     margin-bottom: 0px;
 }
 .trainer-content a{
-    border: 2px solid #00E676;
+    border: 2px solid #111;
     color: #000000;
     margin-top: 65px;
     padding: 9px 30px
 }
 .trainer-content a:hover{
-    border: 2px solid #00E676;
-    background: #00E676;
+    border: 2px solid #111;
+    background: #111;
     color: #fff;
 }
 .trainer-img{margin-right: 70px}
@@ -240,7 +240,7 @@
 .fun-area .row{margin-left: -25px; margin-right: -25px}
 .fun-content h3 span, .fun-content h3{
     font-size: 70px;
-    color: #00e676;
+    color: #111;
     font-weight: 400;
     font-family: 'Poppins', sans-serif;
     margin-bottom: 10px;
@@ -256,7 +256,7 @@
 /*  6. Instructor Area
 /*----------------------------------------*/
 .instructor-content {
-    background: #00e676 none repeat scroll 0 0;
+    background: #111 none repeat scroll 0 0;
     bottom: 0;
     content: "";
     left: 0;
@@ -287,7 +287,7 @@
 }
 .instructor-social ul li{
     display: block;
-    border: 1px solid #00E676;
+    border: 1px solid #111;
     border-radius: 50%;
     height: 35px;
     width: 35px;
@@ -302,13 +302,13 @@
     text-align: center;
     display: block;
     font-size: 16px;
-    color: #00E676;
+    color: #111;
 }
 .instructor-social ul li:hover{
-    background: #00E676;
+    background: #111;
 }
 .instructor-social ul li:hover span{
-    color: #F6F6F6;
+    color: #fff;
 }
 /*----------------------------------------*/
 /*  7. Testimonial Area
@@ -341,7 +341,7 @@
     text-align: center;
     height: 2px;
     width: 100px;
-    background: #00E676;
+    background: #111;
     content: "";
     bottom: 0;
     margin: auto
@@ -369,7 +369,7 @@
     height: 50px;
     width: 50px;
     border-radius: 50%;
-    background: #00E676;
+    background: #111;
     text-align: center;
     opacity: 0;
     -webkit-transition: all 0.5s ease 0s;
@@ -410,7 +410,7 @@
     line-height: 28px;
     display: block;
 }
-.blog-content h3:hover a{color: #00E676}
+.blog-content h3:hover a{color: #111}
 .blog-thumbnail img{width: 100%}
 .single-blog, .blog-img, .blog-thumbnail {
     position: relative;
@@ -431,7 +431,7 @@
 }
 .single-blog:hover .blog-thumbnail a:after{opacity: 1}
 .blog-title > h3 {
-    color: #00E676;
+    color: #111;
     font-size: 14px;
     font-weight: bold;
     margin-bottom: 0;
@@ -550,7 +550,7 @@
     position:relative;     
 }
 .single-post-wrapper .single-blog-post .our-blog-info h5:after {
-    background: #00E676 none repeat scroll 0 0;
+    background: #111 none repeat scroll 0 0;
     bottom: -10px;
     position:absolute;
     left:0;

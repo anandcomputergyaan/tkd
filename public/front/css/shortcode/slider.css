@@ -7,21 +7,6 @@ Author URI: https://devitems.com/
 Version: 1.0
 NOTE: This is Slider style file. All Slider related style included in this file.
 
---------------------------------------*/
-.slider-area {position: relative; overflow: hidden;}
-.single-slide:before {
-    position: absolute;
-    left: -10%;
-    top: 0;
-    background: rgba(0, 230, 118, 0.7);
-    content: "";
-    height: 100%;
-    width: 54%;
-    z-index: 1;
-    -ms-transform: skewX(20deg);
-    -webkit-transform: skewX(20deg);
-    transform: skewX(20deg);
-}
 .single-slide:after {
     position: absolute;
     left: -10%;
@@ -35,6 +20,22 @@ NOTE: This is Slider style file. All Slider related style included in this file.
     transform: skewX(20deg);
     z-index: 1;
 }
+--------------------------------------*/
+.slider-area {position: relative; overflow: hidden;}
+.single-slide:before {
+    position: absolute;
+    left: -10%;
+    top: 0;
+    background: rgba(0, 0, 0, 0.7);
+    content: "";
+    height: 100%;
+    width: 54%;
+    z-index: 1;
+    -ms-transform: skewX(20deg);
+    -webkit-transform: skewX(20deg);
+    transform: skewX(20deg);
+}
+
 .single-slide{position: relative; overflow: hidden}
 .slider-area img {width: 100%;}
 .slider-area, .slider-content, .single-slide, .owl-item, .owl-stage, .slider-wrapper, .owl-stage-outer, .slider-content .container, .slider-content .row, .slider-content .col-md-12, .slider-content .text-content-wrapper, .slider-content .col-lg-12, .slider-content .text-content-wrapper, .slider-content .text-content, .slider-content .display-table, .slider-content .display-table-cell{
@@ -131,7 +132,7 @@ NOTE: This is Slider style file. All Slider related style included in this file.
 .slider-area .owl-item.active .slider-content .slider-img-three {-webkit-animation-delay: 1000ms;animation-delay: 1000ms}  
 .owl-nav div {
     background: rgba(255, 255, 255, 0.15);
-    color: #00E676;
+    color: #111;
     font-size: 30px;
     border-radius: 3px;
     height: 40px;
@@ -149,10 +150,10 @@ NOTE: This is Slider style file. All Slider related style included in this file.
 .owl-nav .owl-next {left: auto; right: -46px;}
 .slider-area:hover .owl-nav div {left: 0;}
 .slider-area:hover .owl-nav .owl-next {left: auto;  right: 0;}
-.owl-nav div:hover{background: rgba(0, 230, 118, 0.6); color: #fff}
+.owl-nav div:hover{background: rgba(0, 0, 0, 0.6); color: #fff}
 .single-slide{background-position: top center; background-size: cover}
 .one-page-arrow {
-    border: 1px solid #00E676;
+    border: 1px solid #111;
     border-radius: 20px;
     bottom: 20px;
     height: 32px;

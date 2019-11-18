@@ -169,13 +169,13 @@ typesetting industry.Lorem Ipsum has been the industry's standard dummy text  </
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-class">
                             <div class="single-class-img">
-                                <a href="#"><img src="{{asset('front/img/class/class1.jpg')}} " alt="class"></a>
+                                <a href="#"><img src="{{asset('front/img/class/class6.jpg')}} " alt="class"></a>
                                 <div class="single-class-hover">
                                     <div class="register">
                                         <a class="default-btn" href="#">register now</a>  
                                     </div>
                                     <div class="class-hover">
-                                        <h3><a href="#">Classes for kids</a></h3>
+                                        <h3><a href="#">Classes for Self Defence </a></h3>
                                         <ul>
                                             <li>Sun-Tue</li>
                                             <li><span class="ti-time"></span>07:00 am - 06.00 pm</li>
@@ -188,7 +188,7 @@ typesetting industry.Lorem Ipsum has been the industry's standard dummy text  </
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-class">
                             <div class="single-class-img">
-                                <a href="#"><img src="{{asset('front/img/class/class2.jpg')}}" alt="class"></a>
+                                <a href="#"><img src="{{asset('front/img/class/class6.jpg')}}" alt="class"></a>
                                 <div class="single-class-hover">
                                     <div class="register">
                                         <a class="default-btn" href="#">register now</a>  
@@ -207,13 +207,13 @@ typesetting industry.Lorem Ipsum has been the industry's standard dummy text  </
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-class">
                             <div class="single-class-img">
-                                <a href="class.html"><img src="{{asset('front/img/class/class3.jpg')}} " alt="class"></a>
+                                <a href="class.html"><img src="{{asset('front/img/class/class6.jpg')}} " alt="class"></a>
                                 <div class="single-class-hover">
                                     <div class="register">
                                         <a class="default-btn" href="register.html">register now</a>  
                                     </div>
                                     <div class="class-hover">
-                                        <h3><a href="class.html">Classes for kids</a></h3>
+                                        <h3><a href="class.html">Classes for Abc</a></h3>
                                         <ul>
                                             <li>Sun-Tue</li>
                                             <li><span class="ti-time"></span>07:00 am - 06.00 pm</li>
@@ -226,13 +226,13 @@ typesetting industry.Lorem Ipsum has been the industry's standard dummy text  </
                     <div class="col-md-4 col-sm-6 col-xs-12">
                         <div class="single-class">
                             <div class="single-class-img">
-                                <a href="class.html"><img src="{{asset('front/img/class/class4.jpg')}}" alt="class"></a>
+                                <a href="class.html"><img src="{{asset('front/img/class/class6.jpg')}}" alt="class"></a>
                                 <div class="single-class-hover">
                                     <div class="register">
                                         <a class="default-btn" href="register.html">register now</a>  
                                     </div>
                                     <div class="class-hover">
-                                        <h3><a href="class.html">Classes for kids</a></h3>
+                                        <h3><a href="class.html">Classes for Girls</a></h3>
                                         <ul>
                                             <li>Sun-Tue</li>
                                             <li><span class="ti-time"></span>07:00 am - 06.00 pm</li>
@@ -245,13 +245,13 @@ typesetting industry.Lorem Ipsum has been the industry's standard dummy text  </
                     <div class="col-md-4 hidden-sm hidden-xs">
                         <div class="single-class">
                             <div class="single-class-img">
-                                <a href="class.html"><img src="{{asset('front/img/class/class5.jpg')}} " alt="class"></a>
+                                <a href="class.html"><img src="{{asset('front/img/class/class6.jpg')}} " alt="class"></a>
                                 <div class="single-class-hover">
                                     <div class="register">
                                         <a class="default-btn" href="register.html">register now</a>  
                                     </div>
                                     <div class="class-hover">
-                                        <h3><a href="class.html">Classes for kids</a></h3>
+                                        <h3><a href="class.html">Classes for Abc2</a></h3>
                                         <ul>
                                             <li>Sun-Tue</li>
                                             <li><span class="ti-time"></span>07:00 am - 06.00 pm</li>
@@ -270,7 +270,7 @@ typesetting industry.Lorem Ipsum has been the industry's standard dummy text  </
                                         <a class="default-btn" href="register.html">register now</a>  
                                     </div>
                                     <div class="class-hover">
-                                        <h3><a href="class.html">Classes for kids</a></h3>
+                                        <h3><a href="class.html">Classes for Girls</a></h3>
                                         <ul>
                                             <li>Sun-Tue</li>
                                             <li><span class="ti-time"></span>07:00 am - 06.00 pm</li>
@@ -381,7 +381,7 @@ typesetting industry.Lorem Ipsum has been the industry's standard dummy text  </
                     </div>
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="single-instructor single-class">
-                            <a href="instructor.html"><img src="{{asset('front/img/trainer/trainer2.jpg')}} " alt="trainer"></a>
+                            <a href="instructor.html"><img src="{{asset('front/img/trainer/trainer1.jpg')}} " alt="trainer"></a>
                             <div class="instructor-social">
                                 <ul>
                                     <li><a href="https://vimeo.com/"><span class="ti-vimeo"></span></a></li>
@@ -400,7 +400,7 @@ typesetting industry.Lorem Ipsum has been the industry's standard dummy text  </
                     </div>
                     <div class="col-md-3 col-sm-4 col-xs-12">
                         <div class="single-instructor single-class">
-                            <a href="instructor.html"><img src="{{asset('front/img/trainer/trainer3.jpg')}}" alt="trainer"></a>
+                            <a href="instructor.html"><img src="{{asset('front/img/trainer/trainer1.jpg')}}" alt="trainer"></a>
                             <div class="instructor-social">
                                 <ul>
                                     <li><a href="https://vimeo.com/"><span class="ti-vimeo"></span></a></li>
@@ -419,7 +419,7 @@ typesetting industry.Lorem Ipsum has been the industry's standard dummy text  </
                     </div>
                     <div class="col-md-3 hidden-sm col-xs-12">
                         <div class="single-instructor single-class">
-                            <a href="#"><img src="{{asset('front/img/trainer/trainer4.jpg')}} " alt="trainer"></a>
+                            <a href="#"><img src="{{asset('front/img/trainer/trainer1.jpg')}} " alt="trainer"></a>
                             <div class="instructor-social">
                                 <ul>
                                     <li><a href="https://vimeo.com/"><span class="ti-vimeo"></span></a></li>
@@ -493,7 +493,7 @@ typesetting industry.Lorem Ipsum has been the industry's standard dummy text  </
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="single-blog">
                             <div class="blog-img">
-                                <a href="#"><img src=" {{asset('front/img/blog/blog1.jpg')}}" alt="blog"></a>
+                                <a href="#"><img src=" {{asset('front/img/blog/blog2.jpg')}}" alt="blog"></a>
                                 <div class="blog-hover"><a href="blog-details.html"><span class="ti-link"></span></a></div>
                             </div>
                             <div class="blog-content">
@@ -523,7 +523,7 @@ typesetting industry.Lorem Ipsum has been the industry's standard dummy text  </
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="single-blog">
                             <div class="blog-img">
-                                <a href="#"><img src=" {{asset('front/img/blog/blog3.jpg')}}" alt="blog"></a>
+                                <a href="#"><img src=" {{asset('front/img/blog/blog2.jpg')}}" alt="blog"></a>
                                 <div class="blog-hover"><a href="#"><span class="ti-link"></span></a></div>
                             </div>
                             <div class="blog-content">

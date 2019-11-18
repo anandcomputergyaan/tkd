@@ -13,7 +13,7 @@ NOTE: This is Header style file. All Header related style included in this file.
 }
 .logo a {display: inline-block}
 .fixed {
-  background: #20232a none repeat scroll 0 0;
+  background: #fff none repeat scroll 0 0;
   position: absolute;
   left: 0;
   top: 0;
@@ -29,7 +29,7 @@ NOTE: This is Header style file. All Header related style included in this file.
     position: relative;
 }
 .main-menu ul li a {
-    color: #ffffff;
+    color: #111;
     display: inline-block;
     font-family: "Roboto",sans-serif;
     font-size: 16px;
@@ -44,7 +44,7 @@ NOTE: This is Header style file. All Header related style included in this file.
     text-decoration: none;
 }
 .main-menu ul li:last-child a{padding-right: 0}
-.main-menu > nav > ul > li:hover > a, .main-menu nav ul li.active a {color: #00E676;}
+.main-menu > nav > ul > li:hover > a, .main-menu nav ul li.active a {color: #cccccc;}
 .main-menu ul li ul {
     background: #ffffff none repeat scroll 0 0;
     left: 0;
@@ -89,7 +89,7 @@ NOTE: This is Header style file. All Header related style included in this file.
     line-height: 20px;
     margin-right: 22px;
 }
-.main-menu ul li ul li:hover > a {color: #01E074}
+.main-menu ul li ul li:hover > a {color: #cccccc}
 .main-menu ul li ul li a:before {display: none;}
 .main-menu ul li ul li > ul {
     left: 100%;
@@ -138,7 +138,7 @@ NOTE: This is Header style file. All Header related style included in this file.
 }
 
 .header-sticky.sticky {
-    background: rgba(0, 0, 0, 0.68) none repeat scroll 0 0;
+	background: rgba(255, 255, 255, 0.68) none repeat scroll 0 0;
     left: 0;
     padding: 0;
     position: fixed;
@@ -317,10 +317,10 @@ NOTE: This is Header style file. All Header related style included in this file.
     z-index: 2;
 }
 .mean-container .mean-nav ul > li:hover > a {
-  color: #00E676;
+  color: #ccc;
   margin-left: 5px;
 }
-.login-register{background: #1B1D23}
+.login-register{background: #fff;}
 .login-register ul{
     margin: 0;
     padding: 0;
@@ -330,7 +330,7 @@ NOTE: This is Header style file. All Header related style included in this file.
     display: inline-block;
 }
 .login-register ul li a {
-    color: #848484;
+    color: #111;
     display: inline-block;
     font-family: "Roboto",sans-serif;
     font-size: 16px;
@@ -340,7 +340,7 @@ NOTE: This is Header style file. All Header related style included in this file.
     -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s;
 }
-.login-register ul li:hover a{color: #00E676}
+.login-register ul li:hover a{color: #ccc}
 .sticky .main-menu ul li a {
     padding: 10px 15px;
 }
